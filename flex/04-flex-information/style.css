@@ -24,3 +24,19 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+
+.box{
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+.spice{
+  max-width: 200px;
+  text-align: center;
+}
+
+.title{
+text-align: center;
+padding-bottom: 32px;
+}
